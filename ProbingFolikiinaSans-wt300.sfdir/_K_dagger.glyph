@@ -1,0 +1,41 @@
+StartChar: K_dagger
+Encoding: 65554 -1 194
+Width: 620
+Flags: HW
+HStem: 600 50<33 267>
+VStem: 123 54<280 764>
+LayerCount: 2
+Fore
+SplineSet
+243 764 m 1x29c0
+ 297 764 l 1
+ 297 510 l 1
+ 243 510 l 1
+ 243 764 l 1x29c0
+153 620 m 1
+ 153 670 l 1
+ 597 670 l 5
+ 597 620 l 5
+ 153 620 l 1
+513 440 m 1
+ 181 30 l 1
+ 110 30 l 1
+ 110 43 l 1
+ 460 476 l 1
+ 513 453 l 1
+ 513 440 l 1
+522 -4 m 1x8dc0
+ 456 -4 l 1
+ 456 734 l 1
+ 522 734 l 1
+ 522 -4 l 1x8dc0
+110 30 m 1
+ 96 30 l 1
+ 96 476 l 1
+ 162 476 l 17
+ 162 64 l 1
+ 110 30 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "liga-1" K dagger
+EndChar

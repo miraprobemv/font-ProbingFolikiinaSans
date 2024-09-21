@@ -1,0 +1,16 @@
+StartChar: quoteright
+Encoding: 8217 8217 71
+Width: 300
+Flags: HW
+HStem: 430 334<123 177>
+VStem: 123 54<430 764>
+LayerCount: 2
+Fore
+SplineSet
+123 764 m 1
+ 177 764 l 1
+ 177 430 l 1
+ 123 430 l 1
+ 123 764 l 1
+EndSplineSet
+EndChar

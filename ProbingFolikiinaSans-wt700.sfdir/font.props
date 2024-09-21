@@ -1,0 +1,69 @@
+SplineFontDB: 3.2
+FontName: ProbingFolikiinaSans-Bold
+FullName: Probing Folikiina Sans Bold
+FamilyName: ProbingFolikiinaSans
+Weight: Bold
+Copyright: Copyright (c) 2024, Mira, the Multiverse Probe
+UComments: "2024-6-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 790
+Descent: 234
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 1014 924440473 11989]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1718586487
+ModificationTime: 1726929157
+PfmFamily: 33
+TTFWeight: 300
+TTFWidth: 5
+LineGap: 492
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 492
+OS2WinAscent: 200
+OS2WinAOffset: 1
+OS2WinDescent: 200
+OS2WinDOffset: 1
+HheadAscent: 200
+HheadAOffset: 1
+HheadDescent: -200
+HheadDOffset: 1
+OS2FamilyClass: 2048
+OS2Vendor: 'PfEd'
+Lookup: 4 0 1 "ProbingFulikaSans-Light-liga" { "ProbingFulikaSans-Light-liga-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -36
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 32 32 8
+BeginPrivate: 0
+EndPrivate
+Grid
+-90 734 m 25
+ 1077 734 l 1049
+-90 -178 m 25
+ 1077 -178 l 1049
+1077 476 m 25
+ -90 476 l 25
+ 1077 476 l 25
+-90 506 m 25
+ 1077 506 l 1049
+EndSplineSet
+EndSplineFont

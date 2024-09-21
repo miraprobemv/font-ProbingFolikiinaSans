@@ -1,0 +1,26 @@
+StartChar: bracketright
+Encoding: 93 93 254
+Width: 400
+Flags: HW
+HStem: -94 50<163 397>
+VStem: 253 54<-208 276>
+LayerCount: 2
+Fore
+SplineSet
+257 730 m 1
+ 282 680 l 1
+ 53 680 l 1
+ 53 730 l 1
+ 257 730 l 1
+317 -174 m 1
+ 257 -174 l 1
+ 257 730 l 1
+ 317 730 l 1
+ 317 -174 l 1
+287 -124 m 1
+ 257 -174 l 1
+ 53 -174 l 1
+ 53 -124 l 1
+ 287 -124 l 1
+EndSplineSet
+EndChar

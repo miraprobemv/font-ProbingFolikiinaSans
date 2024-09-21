@@ -1,0 +1,27 @@
+StartChar: two
+Encoding: 50 50 261
+Width: 600
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+370 776 m 25
+ 370 -62 l 1049
+EndSplineSet
+Fore
+SplineSet
+293 734 m 1x80
+ 541 544 l 1
+ 541 492 l 1
+ 142 216 l 1
+ 397 10 l 1
+ 397 0 l 25
+ 305 0 l 1
+ 61 192 l 1
+ 61 242 l 1
+ 465 520 l 1
+ 200 724 l 1
+ 200 734 l 25
+ 293 734 l 1x80
+EndSplineSet
+EndChar
